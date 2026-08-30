@@ -1,0 +1,10 @@
+{
+  "description": "A predictive analytics platform for monitoring patient deterioration in real-time, integrating with DINAMAP devices to enhance clinical decision-making.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
