@@ -1,8 +1,18 @@
 {
-  "name": "figma-make-app",
+  "name": "patient-monitoring-dashboard",
+  "description": "AI-Powered Patient Deterioration Early-Warning Dashboard for Emergency Departments & ICUs",
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://patient-do.vercel.app/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mfa11188-bot/PatientMonitoringDashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mfa11188-bot/PatientMonitoringDashboard/issues"
+  },
+  "license": "MIT",
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "vite build",
